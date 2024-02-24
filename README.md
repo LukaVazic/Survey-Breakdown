@@ -7,5 +7,5 @@ Power BI
 # Demonstrated Concepts:
 - Loading Data From Excel
 - Data Clean-Up (Transform Data, Power Query)
-- Creating Different Visuals (Cards, Stacked Bar Chart, Stacked Column Chart)
+- Creating Different Visuals (Cards, Stacked Bar Chart, Stacked Column Chart, Gauges)
 - Adding and Modifying Titles, Visuals
